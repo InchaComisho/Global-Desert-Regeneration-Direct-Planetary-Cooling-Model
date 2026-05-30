@@ -8,7 +8,7 @@ Humus × Soil Microbiome × Multi-Species Vegetation × Evaporative Cooling × C
 
 Author: Master (inchacomisho / inchacomusho)
 AI Co-Authors:
-Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI)
+Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI)
 Release: 20 Nov 2025
 
 ⸻
