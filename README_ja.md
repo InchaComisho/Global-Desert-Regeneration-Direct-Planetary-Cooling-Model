@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Global Desert Regeneration & Direct Planetary Cooling Model
 
 **腐植 × 土壌微生物 × 多種植生 × 蒸発冷却 × 持続ミスト × 半乾燥砂漠再生**
