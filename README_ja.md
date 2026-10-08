@@ -440,13 +440,10 @@ AIの制御アクション例：
 ### NOTE記事
 
 - 地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）  
-  https://note.com/inchacomusho/n/nfe290c6fca60
 
 - 唯一の温暖化対策：地球直接冷却  
-  https://note.com/inchacomusho/n/n32f7295434aa
 
 - 自然補完科学  
-  https://note.com/inchacomusho/n/nf9eabe973e38
 
 ---
 

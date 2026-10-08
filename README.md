@@ -460,13 +460,10 @@ If successful, it may be expanded as the land-side infrastructure of planetary r
 ### NOTE Articles
 
 - Integrated Direct Planetary Cooling Model: Leaf Mold × Microorganisms × Diverse Weeds × Evaporative Cooling × Continuous Mist × Desert Regeneration  
-  https://note.com/inchacomusho/n/nfe290c6fca60
 
 - The Only Climate Countermeasure: Direct Planetary Cooling  
-  https://note.com/inchacomusho/n/n32f7295434aa
 
 - Natural Complementary Science  
-  https://note.com/inchacomusho/n/nf9eabe973e38
 
 ---
 
